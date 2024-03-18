@@ -64,10 +64,11 @@ header {
   transition: 0.3ms;
 }
 
- .logo {
-  width: 7%;
-  height: auto;
-  padding: 0;
+.logo {
+  width: 30px;
+height: auto;
+padding: 0;
+margin-right: 80px !important;
 }
 
 .logo img {
